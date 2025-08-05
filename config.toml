@@ -1,8 +1,0 @@
-[llm]
-model = "Qwen3-235B-A22B-agent"
-base_url = "https://quarkml.oa.fenqile.com"
-api_key = "sk-43vqINZ4dhcA6usaMK3zRw"
-max_tokens = 8196
-temperature = 0.7
-api_type = "openai"
-api_version = ""
